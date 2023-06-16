@@ -1,0 +1,7 @@
+db.driver=
+db.url=
+db.username=
+db.password=
+
+hibernate.show_sql=true
+hibernate.hbm2ddl.auto=validate
